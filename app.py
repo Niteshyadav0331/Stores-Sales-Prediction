@@ -32,7 +32,7 @@ def Prediction(Item_Weight, Item_Fat_Content, Item_Visibility, Item_MRP,
     pred=model.predict([[Item_Weight, Item_Fat_Content, Item_Visibility, Item_MRP,
        m4, Outlet_Age, Item_Visibility_bins,
        GroceryStore, m1,m2,m3]])
-    pr=-(pred)
+    pr=(pred)
     return pr
 
 def main():
