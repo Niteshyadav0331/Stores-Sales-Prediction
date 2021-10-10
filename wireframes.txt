@@ -5,4 +5,5 @@ Stores Sales Prediction
 
 
 Stores Sales Prediction web app just contains one home page after entering data when user press the submit button the prediction is shown on the same page as well.
+
  
