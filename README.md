@@ -36,5 +36,5 @@ heroku
 
 https://salesprediciton1.herokuapp.com/
 
-![name-of-you-image](https://github.com/HeyKashit/Rain-fall-predication-in-Australia/blob/main/Screenshot%20(5).png)
-![name-of-you-image](https://github.com/HeyKashit/Rain-fall-predication-in-Australia/blob/main/Screenshot%20(6).png)
+![name-of-you-image](https://github.com/Niteshyadav0331/Stores-Sales-Prediction/blob/main/1.png)
+
