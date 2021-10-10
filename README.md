@@ -1,9 +1,9 @@
 # Stores-Sales-Prediction
-Rain Fall Prediction using Machine Learning.
-Deployed link = https://rain-fall-in-australia-predict.herokuapp.com/
+Stores Sales Prediction using Machine Learning.
+Deployed link = https://salesprediciton1.herokuapp.com/
 
 # Problem Statement:
-To predict the Rain Fall in Australia.
+To predict the Sales of a Store.
 
 # Approach:
 The classical machine learning tasks like Data Exploration, Data Cleaning,
@@ -34,7 +34,7 @@ using Streamlit.
 # cloud Deployed 
 heroku 
 
-https://rain-fall-in-australia-predict.herokuapp.com/
+https://salesprediciton1.herokuapp.com/
 
 ![name-of-you-image](https://github.com/HeyKashit/Rain-fall-predication-in-Australia/blob/main/Screenshot%20(5).png)
 ![name-of-you-image](https://github.com/HeyKashit/Rain-fall-predication-in-Australia/blob/main/Screenshot%20(6).png)
